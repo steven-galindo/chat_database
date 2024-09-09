@@ -1,0 +1,8 @@
+python-dotenv
+langchain-community
+langchain
+langchain-openai
+langchain-core
+pandasai==2.2.14
+pandas==1.5.3
+streamlit

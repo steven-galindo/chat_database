@@ -1,0 +1,7 @@
+*.pdf
+*.log
+*.env
+config_demo.yml
+lanzar.sh
+
+
